@@ -2,9 +2,8 @@
 
 I'm a Full-Stack Web Developer building the world the way I see it. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-![giphy]([https://giphy.com/embed/jTNG3RF6EwbkpD4LZx](https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx))
+![giphy (1)](https://user-images.githubusercontent.com/104122352/224517540-7ec66519-0851-41e9-ae59-2f5ba2b6f004.gif)
 
-<iframe src="https://giphy.com/embed/jTNG3RF6EwbkpD4LZx" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">via GIPHY</a></p>
 
 <!--
 **LeonardoMateo1/LeonardoMateo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
