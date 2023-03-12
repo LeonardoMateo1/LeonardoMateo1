@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Web Developer building the world the way I see it. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-![giphy (1)](https://user-images.githubusercontent.com/104122352/224517726-6947f16d-66b2-44b1-aa34-7db7b45cb41f.gif)
+![giphy (2)](https://user-images.githubusercontent.com/104122352/224517752-4c219d4c-d911-4aa3-b6a8-760eaac40b8f.gif)
 
 <!--
 **LeonardoMateo1/LeonardoMateo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
