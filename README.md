@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Web Developer building the world the way I see it. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-![giphy (1)](https://user-images.githubusercontent.com/104122352/224517540-7ec66519-0851-41e9-ae59-2f5ba2b6f004.gif)
+<img src="https://user-images.githubusercontent.com/104122352/224517540-7ec66519-0851-41e9-ae59-2f5ba2b6f004.gif" alt="Alt Text" width="500" height="400" autoplay>
 
 
 <!--
