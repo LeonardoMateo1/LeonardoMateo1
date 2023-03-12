@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Web Developer building the world the way I see it. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-![giphy](http://www.greenplacepark.com/)
+![giphy]([http://www.greenplacepark.com/](https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx))
 
 
 
