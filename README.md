@@ -2,9 +2,10 @@
 
 I'm a Full-Stack Web Developer building the world the way I see it. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-![giphy]([http://www.greenplacepark.com/](https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx))
+![giphy](https://giphy.com/embed/jTNG3RF6EwbkpD4LZx)
+![giphy](https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx)
 
-
+<iframe src="https://giphy.com/embed/jTNG3RF6EwbkpD4LZx" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">via GIPHY</a></p>
 
 <!--
 **LeonardoMateo1/LeonardoMateo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
