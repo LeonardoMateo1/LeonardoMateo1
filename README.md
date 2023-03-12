@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Mateo</h1>
 <h3 align="center">I'm a Full-Stack Web Developer building the world the way I see it. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</h3>
+![image](https://user-images.githubusercontent.com/104122352/224518115-6355184c-2136-42e8-be38-dabd45154301.png)
 
 - 🔭 I’m currently working on **CarTalk**
 
