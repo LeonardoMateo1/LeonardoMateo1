@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **CarTalk**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **MERN or MEAN**
 
