@@ -22,11 +22,6 @@ I'm a highly motivated Full-Stack Web Developer with a passion for creating inno
 - **Version Control**: Git
 - **Other Tools**: Figma, Postman, Nginx
 
-## GitHub Stats
+## Live Projects Deployed with AWS
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=leonardomateo1&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardomateo1&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardomateo1)
-
-<!-- Feel free to customize the content further based on your preferences and achievements. -->
+- [CrookedLion](http://crookedlion.com/)
