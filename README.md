@@ -24,4 +24,4 @@ I'm a highly motivated Full-Stack Web Developer with a passion for creating inno
 
 ## Live Projects Deployed with AWS
 
-- [CrookedLion](http://crookedlion.com/)
+- [CrookedLion](http://www.crookedlion.com/)
