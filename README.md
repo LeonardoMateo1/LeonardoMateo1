@@ -10,15 +10,6 @@ I graduated from Coding Dojo with full-stack experience in three different stack
 - [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/leonardo-mateo/)
 - **leom305131@gmail.com**
 
-## Skills and Tools
-
-- **Front-End**: Angular, AngularJS, React, Redux, HTML5, CSS3, Bootstrap
-- **Back-End**: Node.js, Express.js, Python (Django, Flask), Java (Spring)
-- **Databases**: MongoDB, MySQL, Oracle
-- **Cloud Services**: AWS
-- **Version Control**: Git
-- **Other Tools**: Figma, Postman, Nginx
-
 ## Live Projects Deployed with AWS
 
 - [CrookedLion](http://www.crookedlion.com/)
